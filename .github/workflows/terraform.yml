@@ -1,0 +1,6 @@
+name: "Java-app IAC"
+on: 
+  push:
+    branches:
+      - main
+      - stage
